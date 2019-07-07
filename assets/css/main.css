@@ -1,6 +1,14 @@
 .header {
-  background-image: url("assets/img/post-image.jpg");
+  height: 670px;
+  background-image: url(../img/post-image.jpg);
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  background-position: 80%; }
+
+.navbar-logo {
+  height: 1px; }
+
+.article {
+  text-align: left; }
 
 /*# sourceMappingURL=main.css.map */
