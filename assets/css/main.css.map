@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,OAAQ;EACN,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,0BAA0B;EAC5C,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;EACtB,mBAAmB,EAAE,GAAG;;ACJxB,YAAM;EACJ,MAAM,EAAE,GAAG;;ACFf,QAAS;EACP,UAAU,EAAE,IAAI",
-"sources": ["../sass/layout/_header.scss","../sass/layout/_navbar.scss","../sass/layout/_article.scss"],
+"mappings": "AAAA,OAAQ;EACN,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,0BAA0B;EAC5C,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;EACtB,mBAAmB,EAAE,GAAG;;ACJxB,YAAM;EACJ,MAAM,EAAE,GAAG;;ACFf,OAAQ;EACN,gBAAgB,EAAE,OAAO;EACzB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,GAAG;EACZ,YAAO;IACL,gBAAgB,EAAE,OAAO;IACzB,UAAU,EAAE,MAAM;IAClB,OAAO,EAAE,GAAG",
+"sources": ["../sass/layout/_header.scss","../sass/layout/_navbar.scss","../sass/layout/_footer.scss"],
 "names": [],
 "file": "main.css"
 }
