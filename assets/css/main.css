@@ -4,9 +4,13 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 80%; }
+  .header_text {
+    color: white;
+    text-align: center;
+    padding-top: 10em; }
 
-.navbar-logo {
-  height: 1px; }
+.navbar-brand {
+  height: 3em; }
 
 .footer {
   background-color: #666363;
