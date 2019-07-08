@@ -3,26 +3,35 @@
   background-image: url(../img/post-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 80%; }
+  background-position: 80%;
+  padding-top: 11em; }
   .header_title {
     font-family: "Playfair Display", serif;
     font-size: 70px;
     font-weight: 900;
     font-style: italic;
     color: #FFF;
-    margin-top: 1em;
+    margin-top: .9em;
     text-align: center; }
 
 .navbar-brand {
-  height: 3em; }
+  height: 2.60em; }
+.navbar-brand_image {
+  width: 120px;
+  height: 60px;
+  padding-bottom: 5px; }
 
-.article_perfil_img {
-  width: 200px; }
+.article {
+  padding: 3em; }
+  .article_perfil {
+    padding-top: 3em; }
+  .article_perfil_img {
+    width: 200px; }
 
 .footer {
   background-color: #666363;
   text-align: center;
-  padding: 3em; }
+  padding: 5em; }
   .footer_down {
     background-color: #212529;
     text-align: center;

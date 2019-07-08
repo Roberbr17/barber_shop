@@ -1,5 +1,9 @@
-.article_perfil {
-  &_img {
+.article {
+  padding: 3em;
+  &_perfil {
+    padding-top: 3em;
+  }
+  &_perfil_img {
     width: 200px;
   }
 }

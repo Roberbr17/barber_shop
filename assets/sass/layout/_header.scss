@@ -4,13 +4,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 80%;
+  padding-top: 11em;
     &_title {
       font-family: $playfair;
       font-size: $xx-large;
       font-weight: $extra-bold;
       font-style: italic;
       color: $white;
-      margin-top: 1em;
+      margin-top: .9em;
       text-align: center;
     }
 }

@@ -1,5 +1,10 @@
 .navbar {
   &-brand{
-    height: 3em;
+    height: 2.60em;
   }
-}
+  &-brand_image {
+    width: 120px;
+    height: 60px;
+    padding-bottom: 5px; 
+    }
+  }
