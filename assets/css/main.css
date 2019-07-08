@@ -16,6 +16,9 @@
 .navbar-brand {
   height: 3em; }
 
+.article_perfil_img {
+  width: 200px; }
+
 .footer {
   background-color: #666363;
   text-align: center;
