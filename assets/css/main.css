@@ -4,10 +4,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 80%; }
-  .header_text {
-    color: white;
-    text-align: center;
-    padding-top: 10em; }
+  .header_title {
+    font-family: "Playfair Display", serif;
+    font-size: 70px;
+    font-weight: 900;
+    font-style: italic;
+    color: #FFF;
+    margin-top: 1em;
+    text-align: center; }
 
 .navbar-brand {
   height: 3em; }
